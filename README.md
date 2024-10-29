@@ -15,4 +15,4 @@ in your terminal.
 - Automatically grabs the auth cookie from your browser
 - Checks for any validation issues before generation
 - Outputs any valid codes into "success.txt"
-- Fast and no rate-limiting
+- Fast and no found rate-limiting
