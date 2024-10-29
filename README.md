@@ -10,3 +10,9 @@ A Windows machine, browser-cookie3, and to be logged into your Gill Explore acco
 pip install browser-cookie3
 ```
 in your terminal.
+
+## Features
+- Automatically grabs the auth cookie from your browser
+- Checks for any validation issues before generation
+- Outputs any valid codes into "success.txt"
+- Fast and no rate-limiting
