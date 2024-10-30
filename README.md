@@ -5,7 +5,7 @@ Generates and Validates e-book codes for Gill Explore accounts (https://www.gill
 Generates a random sequence of letters tested for validity and if valid, redeems onto your account. This does mean it is basically bruteforcing a code. The script grabs your cookie data for Gill Explore and uses it as the authentication to redeem the codes.
 
 ## Requirements
-A Windows machine, browser-cookie3, and to be logged into your Gill Explore account on any browser. 
+A Windows machine, Python 3, browser-cookie3, and to be logged into your Gill Explore account on any browser. 
 Install browser-cookie3 in your terminal with:
 ```
 pip install browser-cookie3
