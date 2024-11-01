@@ -7,8 +7,8 @@ Generates a random sequence of letters tested for validity and if valid, redeems
 ## Requirements
 You will need Windows 10 or above, Python 3+, the Firefox browser and the browser-cookie3 library.
 
-Install Firefox from https://www.mozilla.org/en-GB/firefox/download/thanks/
-Install Python from https://www.python.org/downloads/
+Install Firefox from https://www.mozilla.org/en-GB/firefox/download/thanks/  
+Install Python from https://www.python.org/downloads/  
 Install browser-cookie3 for Python in your terminal with:
 ```
 pip install browser-cookie3
