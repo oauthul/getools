@@ -16,3 +16,5 @@ pip install browser-cookie3
 - Checks for any validation issues before generation
 - Outputs any valid codes into "success.txt"
 - Fast and no found rate-limiting
+## Issues
+- Requires you to keep your browser closed
