@@ -20,4 +20,4 @@ pip install browser-cookie3
 - Outputs any valid codes into "success.txt"
 - Fast generation and no found rate-limiting
 ## Issues
-~~- Requires you to keep your browser closed~~ Fixed in v1.1.0
+~~Requires you to keep your browser closed~~ Fixed in v1.1.0
