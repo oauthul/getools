@@ -25,7 +25,7 @@ pip install browser-cookie3
 ## Issues
 ~~Requires you to keep your browser closed~~ Fixed in v1.1.0
 ## Plans
-Remove the requirement of keeping browsers closed [x] (Added in v1.1.0)
-Inbuilt Firefox installer []
-Auto-login for Gill Explore through Firefox []
-Add Linux and MacOS functionality []
+Remove the requirement of keeping browsers closed - [x] (Added in v1.1.0)
+Inbuilt Firefox installer - []
+Auto-login for Gill Explore through Firefox - []
+Add Linux and MacOS functionality - []
