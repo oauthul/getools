@@ -13,7 +13,7 @@ pip install browser-cookie3
 ```
 ## Instructions
 1. Download and install the latest version of Python from the link above **(Remember to add Python to PATH)**
-2. Open your terminal and enter 'pip install browser-cookie3' (if pip isn't found as a command, reinstall Python as PATH or reboot)
+2. Open your terminal and enter 'pip install browser-cookie3' (if pip isn't found as a command, reinstall Python with PATH or reboot)
 3. Download and install Firefox from the link above
 4. Log into your Gill Explore account in Firefox
 5. Run the script
