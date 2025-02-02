@@ -1,5 +1,5 @@
 # Please be elevated, and install rookiepy, bs4 and requests.
-from rookiepy import arc, firefox, opera, opera_gx, chrome, chromium, edge, vivaldi, brave, to_cookiejar
+from rookiepy import arc, firefox, opera, opera_gx, chrome, chromium, edge, vivaldi, brave, safari, to_cookiejar
 from bs4 import BeautifulSoup
 import requests
 import time
@@ -27,7 +27,7 @@ browsers = {
     'Chromium': chromium,
     'Edge': edge,
     'Brave': brave,
-    'Vivaldi': vivaldi,
+    'Vivaldi': vivaldi
 }
 
 browsers_with_cookies = {}
@@ -157,6 +157,9 @@ def prerequisites():
                 sys.exit()
             else:
                 print('[OK]: User is elevated')
+        if check_os == 'macOS':
+            from rookiepy import safari
+            browsers.update({'Safari': safari})
         global browser_cookies
         browser_cookies = load_cookie_test()
         if browsers_with_cookies:
